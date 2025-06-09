@@ -42,20 +42,22 @@ I love solving problems with code, diving deep into **Machine Learning**, and bu
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center">
-      <b>Top Used Languages</b><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim1249&layout=donut&theme=radical&hide=jupyter%20notebook,html,css,JavaScript" width="300" />
-    </td>
-    <td align="center">
-      <b>GitHub Stats</b><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tamim1249&show_icons=true&count_private=true&theme=radical" width="400"/>
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamim1249&theme=radical" width="400"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🔝 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamim1249&layout=donut&langs_count=6&theme=radical)
+
+---
+
+### 🚀 Tamim Mahmud's GitHub Stats
+![Tamim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamim1249&show_icons=true&theme=radical&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tamim1249&theme=radical&hide_border=true)
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=tamim1249&theme=radical&row=1&margin-w=10&no-bg=true)
+
+</div>
+
 
 
 ---
