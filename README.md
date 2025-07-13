@@ -8,25 +8,27 @@
 
 ### 🧑‍💻 About Me
 
-Hi there! I'm **Tamim Mahmud**, a passionate and dedicated Computer Science student at **Daffodil International University**, Dhaka 🇧🇩.  
-I love solving problems with code, diving deep into **Machine Learning**, and building meaningful projects that make an impact.
+Hello there! I'm **Tamim Mahmud**, a passionate and committed Computer Science student at **Daffodil International University**, Dhaka 🇧🇩.  
+I thrive on solving real-world problems with code and am deeply focused on **Machine Learning** and impactful research.
 
-- 💻 Currently exploring **ML algorithms** and working on **research in agriculture prediction**
-- 🧠 Always curious to learn new tools and technologies
-- 🌱 Strong believer in **consistency over perfection**
-- 🛠 Passionate about **Python, Data Science, and backend development**
+- 💻 Currently exploring advanced **ML algorithms** & working on **agricultural prediction research**
+- 🧠 Lifelong learner, always excited to dive into new tools and technologies
+- 🌱 Firm believer in **consistency over perfection**
+- 🛠 Enthusiastic about **Python, Data Science**, and backend development
 
 ---
 
-### 🔭 Currently Working On
-- 100 Days of Machine Learning Challenge
-- Mini Projects using `KNN`, `SVM`, `Decision Trees`, and `Streamlit`
-- Research on ML in Agriculture
+### 🔭 What I’m Working On
+- 🚀 **100 Days of Machine Learning** Challenge
+- 🛠 Building Mini Projects using `KNN`, `SVM`, `Decision Trees`, and `Streamlit`
+- 🌾 Research focused on **Machine Learning applications in agriculture**
 
-### 📚 Currently Learning
-- PyTorch
-- Research Paper Writing
-- Advanced Machine Learning Concepts
+---
+
+### 📚 What I’m Learning
+- 🧱 PyTorch for Deep Learning
+- 📝 Research Paper Writing techniques
+- 🔍 Advanced ML Concepts & Optimization
 
 ---
 
@@ -34,9 +36,9 @@ I love solving problems with code, diving deep into **Machine Learning**, and bu
 
 - **Languages:** Python, C, C++, Java  
 - **ML & DS Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
-- **Web:** HTML, CSS, Flask, Streamlit  
-- **Tools:** Git, GitHub, Jupyter Notebook  
-- **Database:** MySQL, SQLite  
+- **Web Development:** HTML, CSS, Flask, Streamlit  
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook  
+- **Databases:** MySQL, SQLite  
 
 ---
 
@@ -49,7 +51,7 @@ I love solving problems with code, diving deep into **Machine Learning**, and bu
 
 ---
 
-### 🚀 Tamim Mahmud's GitHub Stats
+### 🚀 GitHub Activity
 ![Tamim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamim1249&show_icons=true&theme=radical&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tamim1249&theme=radical&hide_border=true)
@@ -57,8 +59,6 @@ I love solving problems with code, diving deep into **Machine Learning**, and bu
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=tamim1249&theme=radical&row=1&margin-w=10&no-bg=true)
 
 </div>
-
-
 
 ---
 
@@ -81,4 +81,9 @@ I love solving problems with code, diving deep into **Machine Learning**, and bu
 
 ---
 
-> *"Consistency beats talent. I’m not the best, but I never stop."*
+### 🧠 Quote I Live By
+
+> _"Consistency beats talent. I may not be the best, but I never stop showing up and improving."_
+
+---
+
