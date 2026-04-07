@@ -1,44 +1,87 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Tamim%20👋&fontSize=40&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Hi%20I'm%20Tamim%20Mahmud%20👋\&fontSize=40\&fontAlignY=35)
 
 <p align="center">
-  <b>🚀 Computer Science Student | Aspiring Machine Learning Engineer | Python Developer</b>
+  <b>🚀 ML Engineer | AI Researcher | Computer Vision Enthusiast</b>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-Hello there! I'm **Tamim Mahmud**, a passionate and committed Computer Science student at **Daffodil International University**, Dhaka 🇧🇩.  
-I thrive on solving real-world problems with code and am deeply focused on **Machine Learning** and impactful research.
+Hello! I'm **Tamim Mahmud**, a passionate Computer Science student at **Daffodil International University**, Bangladesh 🇧🇩
 
-- 💻 Currently exploring advanced **ML algorithms** & working on **agricultural prediction research**
-- 🧠 Lifelong learner, always excited to dive into new tools and technologies
-- 🌱 Firm believer in **consistency over perfection**
-- 🛠 Enthusiastic about **Python, Data Science**, and backend development
+💡 I specialize in **Machine Learning, Deep Learning, and Computer Vision**, with a strong focus on **medical image analysis** and real-world AI applications.
 
----
-
-### 🔭 What I’m Working On
-- 🚀 **100 Days of Machine Learning** Challenge
-- 🛠 Building Mini Projects using `KNN`, `SVM`, `Decision Trees`, and `Streamlit`
-- 🌾 Research focused on **Machine Learning applications in agriculture**
+🎯 **Career Goal:**
+To pursue **MS → PhD** and contribute to impactful research in **AI-driven healthcare systems**
 
 ---
 
-### 📚 What I’m Learning
-- 🧱 PyTorch for Deep Learning
-- 📝 Research Paper Writing techniques
-- 🔍 Advanced ML Concepts & Optimization
+## 🔬 Research Focus
+
+* 🧠 Medical Image Analysis (Brain Tumor, Polyp Segmentation)
+* 🤖 Deep Learning & Computer Vision
+* 📊 Explainable AI (XAI) & Uncertainty Estimation
+* 🌱 AI for Healthcare & Agriculture
 
 ---
 
-### 💼 Skills
+## 📄 Research Publications
 
-- **Languages:** Python, C, C++, Java  
-- **ML & DS Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
-- **Web Development:** HTML, CSS, Flask, Streamlit  
-- **Tools & Platforms:** Git, GitHub, Jupyter Notebook  
-- **Databases:** MySQL, SQLite  
+### 🧾 Journal
+
+* 📌 *LTAP-Net: Lightweight Transformer-based Polyp Segmentation* — **Under Review**
+* 📌 *Uncertainty-Aware CNN-Transformer Ensemble for Brain Tumor Classification* — **Under Review**
+
+### 📚 Conferences
+
+* ✅ Multiple papers **Accepted / In Press (Springer, IEEE)**
+* 🔥 Topics:
+
+  * Brain Tumor Classification (MRI)
+  * Alzheimer’s Disease Prediction
+  * Maternal Health Risk Prediction
+  * Bangla Handwritten Character Recognition
+  * Waste Classification & Medical AI Systems
+
+---
+
+## 🛠 Technical Projects
+
+* 🧠 **Brain Tumor Classification (CNN Ensemble + Uncertainty)**
+* 🩺 **Polyp Segmentation (Attention U-Net)**
+* 🔤 **Bangla Character Recognition (Deep CNN Ensemble)**
+* 🤰 **Maternal Health Risk Prediction (ML + SMOTE-ENN + PCA)**
+* 📊 **Medical Image Dashboard (Streamlit App)**
+
+---
+
+## 💻 Skills
+
+### 🧠 AI & ML
+
+`PyTorch` `TensorFlow` `Scikit-learn` `NumPy` `Pandas`
+
+### 💻 Programming
+
+`Python` `C` `C++` `Java`
+
+### 🌐 Development
+
+`Flask` `Streamlit` `HTML` `CSS`
+
+### ⚙️ Tools
+
+`Git` `GitHub` `Kaggle` `Jupyter Notebook`
+
+---
+
+## 🏆 Competitive Programming
+
+* 💡 Codeforces: 100+ Problems
+* 🧠 LeetCode: 50+ Problems
+* 🔥 Beecrowd: 150+ Problems
+* ⚡ HackerRank & SPOJ: 100+ Problems
 
 ---
 
@@ -46,44 +89,34 @@ I thrive on solving real-world problems with code and am deeply focused on **Mac
 
 <div align="center">
 
-### 🔝 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamim1249&layout=donut&langs_count=6&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamim1249\&layout=donut\&theme=radical)
 
----
+![Tamim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamim1249\&show_icons=true\&theme=radical)
 
-### 🚀 GitHub Activity
-![Tamim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamim1249&show_icons=true&theme=radical&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tamim1249&theme=radical&hide_border=true)
-
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=tamim1249&theme=radical&row=1&margin-w=10&no-bg=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=tamim1249\&theme=radical)
 
 </div>
 
 ---
 
-## 📬 Connect with Me
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tamim-mahmud91437/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/tamim1249" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="mailto:mahmud23105101249@diu.edu.bd">
+    <img src="https://img.shields.io/badge/University_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://web.facebook.com/tamim23w" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:tamimmahmud91437@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://orcid.org/0009-0006-6164-1620" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🧠 Quote I Live By
+## 🧠 Philosophy
 
-> _"Consistency beats talent. I may not be the best, but I never stop showing up and improving."_
+> *"Consistency beats talent. Research, build, improve — every single day."*
 
 ---
-
