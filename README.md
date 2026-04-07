@@ -22,7 +22,7 @@ To pursue **MS → PhD** and contribute to impactful research in **AI-driven hea
 * 🧠 Medical Image Analysis (Brain Tumor, Polyp Segmentation)
 * 🤖 Deep Learning & Computer Vision
 * 📊 Explainable AI (XAI) & Uncertainty Estimation
-* 🌱 AI for Healthcare & Agriculture
+* 🌱 AI for Healthcare
 
 ---
 
@@ -41,8 +41,12 @@ To pursue **MS → PhD** and contribute to impactful research in **AI-driven hea
   * Brain Tumor Classification (MRI)
   * Alzheimer’s Disease Prediction
   * Maternal Health Risk Prediction
+  * Encoder–Decoder Models for Polyp Segmentation in Colonoscopy Images
+  * Stacking Ensemble for Accurate Asthma Prediction
   * Bangla Handwritten Character Recognition
-  * Waste Classification & Medical AI Systems
+  * Waste Classification 
+  * Bangla Sign Language
+  * 
 
 ---
 
@@ -60,7 +64,7 @@ To pursue **MS → PhD** and contribute to impactful research in **AI-driven hea
 
 ### 🧠 AI & ML
 
-`PyTorch` `TensorFlow` `Scikit-learn` `NumPy` `Pandas`
+`PyTorch` `Scikit-learn` `NumPy` `Pandas`
 
 ### 💻 Programming
 
