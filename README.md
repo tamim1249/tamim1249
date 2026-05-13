@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Hi%20I'm%20Tamim%20Mahmud%20👋\&fontSize=40\&fontAlignY=35)
 
 <p align="center">
-  <b>🚀 ML Engineer | AI Researcher | Computer Vision Enthusiast</b>
+  <b>🚀 Research Assistant at HIRLD,DIU | Machine Learning, Deep Learning Enthusiast  | Computer Vision Enthusiast</b>
 </p>
 
 ---
@@ -32,6 +32,8 @@ To pursue **MS → PhD** and contribute to impactful research in **AI-driven hea
 
 * 📌 *LTAP-Net: Lightweight Transformer-based Polyp Segmentation* — **Under Review**
 * 📌 *Uncertainty-Aware CNN-Transformer Ensemble for Brain Tumor Classification* — **Under Review**
+* 📌 *HALI-Net: An Explainable Hybrid Deep Learning Model with Attention and Texture Fusion for Lung Cancer Detection* — **Under Review**
+* 📌 * ML/DL Assisted Decoupler MIMO Antenna for IoT and Micrometer Wave Application with ECM Validation* - **Under Review**
 
 ### 📚 Conferences
 
@@ -40,13 +42,14 @@ To pursue **MS → PhD** and contribute to impactful research in **AI-driven hea
 
   * Brain Tumor Classification (MRI)
   * Alzheimer’s Disease Prediction
+  * Kidney Disease Prediction
   * Maternal Health Risk Prediction
   * Encoder–Decoder Models for Polyp Segmentation in Colonoscopy Images
   * Stacking Ensemble for Accurate Asthma Prediction
   * Bangla Handwritten Character Recognition
   * Waste Classification 
   * Bangla Sign Language
-  * 
+  * PCOS Classification
 
 ---
 
